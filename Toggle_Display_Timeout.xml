@@ -1,0 +1,40 @@
+<TaskerData sr="" dvi="1" tv="5.7.2">
+	<Profile sr="prof6" ve="2">
+		<cdate>1558194350686</cdate>
+		<clp>true</clp>
+		<edate>1560111831241</edate>
+		<id>6</id>
+		<mid0>4</mid0>
+		<mid1>5</mid1>
+		<nme>Toggle Display Timeout</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="0"/>
+		</State>
+	</Profile>
+	<Task sr="task4">
+		<cdate>1558193898731</cdate>
+		<edate>1559014023904</edate>
+		<id>4</id>
+		<nme>Increase Display Timeout</nme>
+		<Action sr="act0" ve="7">
+			<code>812</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task5">
+		<cdate>1558193898731</cdate>
+		<edate>1559013753866</edate>
+		<id>5</id>
+		<nme>Decrease Display Timeout</nme>
+		<pri>1006</pri>
+		<Action sr="act0" ve="7">
+			<code>812</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
